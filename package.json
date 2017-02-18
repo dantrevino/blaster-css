@@ -1,0 +1,13 @@
+{
+  "name": "blaster-css",
+  "version": "1.0.0",
+  "description": "Minimal approach to Bulma CSS customization",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessio Biancalana",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.3.1"
+  }
+}
