@@ -9,7 +9,7 @@ $ npm install
 $ gulp
 ```
 
-The result can be found in `css/blaster.css`.
+The result can be found in `css/saifu.css`.
 
 ## Cleaning all up
 Wanna clean the target directory to build from scratch? You can:
