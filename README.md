@@ -5,6 +5,7 @@ Rapid framework to speed up Bulma's customization. From the me of the past, to t
 Pretty easy. Just run:
 
 ```
+$ npm install
 $ gulp
 ```
 
