@@ -5,7 +5,7 @@ var sass = require('gulp-sass');
 var del = require('del');
 
 gulp.task('sass', function () {
-  return gulp.src(['./blaster.sass'])
+  return gulp.src(['./saifu.sass'])
     .pipe(sass({
       includePaths: ['./sass', 'node_modules/bulma'],
       errLogToConsole: true
