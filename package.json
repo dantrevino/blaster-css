@@ -1,6 +1,6 @@
 {
   "name": "blaster-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal approach to Bulma CSS customization",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +8,7 @@
   "author": "Alessio Biancalana",
   "license": "MIT",
   "dependencies": {
-    "bulma": "^0.3.1",
+    "bulma": "^0.6.1",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
